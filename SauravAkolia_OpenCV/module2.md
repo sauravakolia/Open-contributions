@@ -1,4 +1,4 @@
-## Module 2 Objectives
+## Module-2 Objectives
 
 The module 2 of the OpenCV course mainly focuses image enhancing or image processing techniques.This module not only explain theortical concepts of the image processing but also provide the way of implementing those techniques using OpenCV functions. This module allow one's to experiment with the concepts.The module starts with explaning the segmentation techniques to finding contours in an image and it further uses these image processing techniques such as segmentaion and edge detetion in the process of face detection and at the end of the module it provide the brief introduction about depolyment of the machine learning model on local web server using flask framework.
 
@@ -27,7 +27,7 @@ Object detection model can be implemented using algorithms such as R-CNN,Haar Ca
     * Yolo algorithm divide the image into 1grid cells and apply the algorithm on each cell for detecting the required object.
 
 
-## Module 2 Learning and Outcomes
+## Module-2 Learning and Outcomes
 
 This module covers almost every aspect of the image processing from segmentation to grid detection,edge detection ,gray scalling,counter finding etc.
 The main aim of this module was to introduce the student to the basic computer vision techniques. This module was structured very nicely it starts from the basics of image processing and further used these techniques to implement the widely used applications of computer vision such as face detection and it also introduces flask framework for the web depolyment of the machine learning model as web depolyment allow one's to learn the use of algorithms in real world and it is also one of the most neccessary skills in IT industry. So, overall this module was a complete blend of theortical and practical concepts.
