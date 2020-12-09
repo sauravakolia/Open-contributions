@@ -34,5 +34,5 @@ The main aim of this module was to introduce the student to the basic computer v
 
 ## Contact Details
 
-Saurav Akolia
+Saurav Akolia</br>
 sauravakolia@yahoo.com
